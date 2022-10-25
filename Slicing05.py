@@ -8,6 +8,6 @@ def main(s,n):
         str: answer
     """
 
-    return s[n:]
+    return s[-n:]
 
-print(main("salom",-3))    
+print(main("salom",3))    
