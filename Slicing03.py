@@ -5,6 +5,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[1:4]
+    return s[1:-1]
 
 print(main("salom"))    
