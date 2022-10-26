@@ -8,4 +8,4 @@ def main(s):
     """
     return s[1::1]
 
-print(main("hello"))    
+print(main("helloword"))    
